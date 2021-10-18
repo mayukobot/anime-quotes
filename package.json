@@ -1,0 +1,26 @@
+{
+  "name": "anime-quotes",
+  "version": "1.0.0",
+  "description": "NodeJS wrapper for https://animechan.vercel.app/",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayukobot/anime-quotes.git"
+  },
+  "keywords": [
+    "quotes",
+    "anime"
+  ],
+  "author": "Avellea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mayukobot/anime-quotes/issues"
+  },
+  "homepage": "https://github.com/mayukobot/anime-quotes#readme",
+  "dependencies": {
+    "axios": "^0.23.0"
+  }
+}
